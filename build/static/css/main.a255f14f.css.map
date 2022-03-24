@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a255f14f.css","mappings":"AAAA,KAGI,aAAiB,CADjB,WAAY,CAEZ,gBAAiB,CAHjB,iBAIJ","sources":["App.css"],"sourcesContent":[".App {\n    text-align: center;\n    height: 17px;\n    color: blueviolet;\n    padding-top: 50px;\n}\n"],"names":[],"sourceRoot":""}
